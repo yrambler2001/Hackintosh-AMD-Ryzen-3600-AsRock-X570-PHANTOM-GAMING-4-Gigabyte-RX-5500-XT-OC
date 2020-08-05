@@ -31,7 +31,7 @@ Cooler: DeepCool GAMMAXX 300 $20
 # Result
 
 ![Info](/images/info.png)
-Geekbench 5 https://browser.geekbench.com/v5/cpu/3178038
+Geekbench 5 https://browser.geekbench.com/v5/cpu/3180249
 
 # Note
 
@@ -48,7 +48,7 @@ The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID into yo
 		<key>SpoofVendor</key>
 		<true/>
 		<key>SystemProductName</key>
-		<string>iMacPro1,1</string>
+		<string>MacPro7,1</string>
 		<key>SystemSerialNumber</key>
 		<string>xxxxxxxxxxx</string>
 		<key>SystemUUID</key>
