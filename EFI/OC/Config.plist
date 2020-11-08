@@ -1740,7 +1740,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>1</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1808,7 +1808,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 npci=0x2000 alcid=1 agdpmod=pikera -hbfx-disable-patch-pci vsmcgen=1 -lilubetaall -wegbeta</string>
+				<string>keepsyms=1 npci=0x2000 alcid=1 agdpmod=pikera gfxrst=1 -hbfx-disable-patch-pci vsmcgen=1 -lilubetaall -wegbeta</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>booter-fileset-basesystem</key>
@@ -1878,7 +1878,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>xxxxxxxxxxxxxxx</string>
+			<string>F5K053501QXK3F7FB</string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -1886,9 +1886,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>xxxxxxxxxxx</string>
+			<string>F5KDX6ZBP7QM</string>
 			<key>SystemUUID</key>
-			<string>xxxxxxxx-xxxxx-xxxxx-xxxx-xxxxxxxx</string>
+			<string>AAAE863D-E0F8-481B-8C17-B911494DBC81</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
