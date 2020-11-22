@@ -8,3 +8,5 @@ $RECYCLE.BIN
 System Volume Information
 Recovery/Logs
 .TemporaryItems
+._*
+!/.gitignore

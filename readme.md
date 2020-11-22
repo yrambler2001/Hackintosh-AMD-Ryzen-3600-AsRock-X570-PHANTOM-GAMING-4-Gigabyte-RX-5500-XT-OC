@@ -1,5 +1,5 @@
 # Hackintosh-AMD-Ryzen-3600-AsRock-X570-PHANTOM-GAMING-4-Gigabyte-RX-5500-XT-OC
-
+Big Sur
 # Info PC
 
 ```
@@ -15,7 +15,7 @@ PSU: Chieftec BDF-600S 600W $60
 Cooler: DeepCool GAMMAXX 300 $20
 ```
 
-# Hackintosh + OpenCore (Supported version: 0.6.0)
+# Hackintosh + OpenCore (Supported version: 0.6.3)
 
 - https://dortania.github.io/OpenCore-Desktop-Guide
 
