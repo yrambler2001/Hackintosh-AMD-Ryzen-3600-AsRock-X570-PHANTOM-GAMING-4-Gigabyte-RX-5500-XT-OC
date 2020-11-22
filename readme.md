@@ -1,5 +1,5 @@
 # Hackintosh-AMD-Ryzen-3600-AsRock-X570-PHANTOM-GAMING-4-Gigabyte-RX-5500-XT-OC
-Big Sur
+Big Sur (Catalina is on 'catalina' branch)
 # Info PC
 
 ```
@@ -24,14 +24,16 @@ Cooler: DeepCool GAMMAXX 300 $20
 - Audio
 - Ethernet
 - Bluetooth
-- VGA
+- GPU
 - All USB ports
 - Switch between Windows and MacOS with [rEFInd bootloader](https://github.com/agners/rEFInd) [(website)](https://www.rodsbooks.com/refind/) using mouse
 
 # Result
 
 ![Info](/images/info.png)
-Geekbench 5 https://browser.geekbench.com/v5/cpu/3180249
+Geekbench 5 https://browser.geekbench.com/v5/cpu/4920819
+Geekbench 5 Metal https://browser.geekbench.com/v5/compute/1906257
+Geekbench 5 OpenCL https://browser.geekbench.com/v5/compute/1906247
 
 # Note
 
@@ -41,8 +43,12 @@ The file config.plist. Please change MLB, SystemSerialNumber, SystemUUID into yo
 <dict>
 		<key>AdviseWindows</key>
 		<false/>
+		<key>SystemMemoryStatus</key>
+		<string>Auto</string>
 		<key>MLB</key>
 		<string>xxxxxxxxxxxxxxx</string>
+		<key>ProcessorType</key>
+		<integer>0</integer>
 		<key>ROM</key>
 		<data>ESIzAAAA</data>
 		<key>SpoofVendor</key>
