@@ -31,8 +31,11 @@ Cooler: DeepCool GAMMAXX 300 $20
 # Result
 
 ![Info](/images/info.png)
+
 Geekbench 5 https://browser.geekbench.com/v5/cpu/4920819
+
 Geekbench 5 Metal https://browser.geekbench.com/v5/compute/1906257
+
 Geekbench 5 OpenCL https://browser.geekbench.com/v5/compute/1906247
 
 # Note
