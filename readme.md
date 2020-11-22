@@ -26,7 +26,7 @@ Cooler: DeepCool GAMMAXX 300 $20
 - Bluetooth
 - GPU
 - All USB ports
-- Switch between Windows and MacOS with [rEFInd bootloader](https://github.com/agners/rEFInd) [(website)](https://www.rodsbooks.com/refind/) using mouse
+- Switch between Windows and MacOS with [rEFInd bootloader](https://github.com/agners/rEFInd) [(website)](https://www.rodsbooks.com/refind/) using mouse (configure boot order using EasyUEFI)
 
 # Result
 
